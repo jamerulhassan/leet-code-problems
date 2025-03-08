@@ -1,6 +1,7 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        return removeDuplicate(nums);
+        int k = removeDuplicate(nums);
+        return k;
     }
     static int removeDuplicate(int[] nums){
         int temp = nums[0],k=0;
