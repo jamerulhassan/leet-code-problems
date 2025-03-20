@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/jamerulhassan/leet-code-problems/tree/master/0645-set-mismatch) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jamerulhassan/leet-code-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/jamerulhassan/leet-code-problems/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/jamerulhassan/leet-code-problems/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jamerulhassan/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/jamerulhassan/leet-code-problems/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/jamerulhassan/leet-code-problems/tree/master/0645-set-mismatch) |
 ## String Matching
 |  |
 | ------- |
