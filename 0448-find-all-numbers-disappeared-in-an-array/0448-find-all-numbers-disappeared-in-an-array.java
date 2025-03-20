@@ -1,7 +1,6 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         cyclic(nums);
-        System.out.println(Arrays.toString(nums));
         ArrayList<Integer> list = new ArrayList<>();
         for(int i=0;i < nums.length;i++){
             if(nums[i] != i + 1){
