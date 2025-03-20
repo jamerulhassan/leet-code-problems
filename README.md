@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jamerulhassan/leet-code-problems/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jamerulhassan/leet-code-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jamerulhassan/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jamerulhassan/leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jamerulhassan/leet-code-problems/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jamerulhassan/leet-code-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/jamerulhassan/leet-code-problems/tree/master/1791-richest-customer-wealth) |
@@ -43,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jamerulhassan/leet-code-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jamerulhassan/leet-code-problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/jamerulhassan/leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jamerulhassan/leet-code-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -78,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jamerulhassan/leet-code-problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
