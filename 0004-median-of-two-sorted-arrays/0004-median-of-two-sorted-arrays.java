@@ -1,9 +1,7 @@
 class Solution {
     public double findMedianSortedArrays(int[] arr1, int[] arr2) {
         int[] mergedArray = merge(arr1,arr2);
-        System.out.println(Arrays.toString(mergedArray));
         int mid = mergedArray.length / 2;
-        System.out.println(mid);
         if(mergedArray.length % 2 == 0){
             double res = ((mergedArray[mid - 1]  + mergedArray[mid]) / 2.0);
             return res;
