@@ -20,12 +20,6 @@ class Solution {
             }
             i++;
         }
-        if(original == max){
-            return true;
-        }
-        else{
-            return false;
-        }
-
+        return (original == max);
     }
 }
