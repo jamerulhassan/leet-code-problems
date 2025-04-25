@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jamerulhassan/leet-code-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jamerulhassan/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/jamerulhassan/leet-code-problems/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jamerulhassan/leet-code-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/jamerulhassan/leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/jamerulhassan/leet-code-problems/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/jamerulhassan/leet-code-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/2058-concatenation-of-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jamerulhassan/leet-code-problems/tree/master/0645-set-mismatch) |
+| [1635-number-of-good-pairs](https://github.com/jamerulhassan/leet-code-problems/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/jamerulhassan/leet-code-problems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
