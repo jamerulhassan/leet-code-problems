@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jamerulhassan/leet-code-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/jamerulhassan/leet-code-problems/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/jamerulhassan/leet-code-problems/tree/master/0953-reverse-only-letters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jamerulhassan/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jamerulhassan/leet-code-problems/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jamerulhassan/leet-code-problems/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/jamerulhassan/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
