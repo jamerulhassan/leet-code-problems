@@ -4,7 +4,8 @@ class Solution {
         list.add(0);
         int i = 0;
         for(int num : gain){
-            list.add(num+list.get(i++));
+            int n = num+list.get(i++);
+            list.add(n);
         }
         return Collections.max(list);
     }
