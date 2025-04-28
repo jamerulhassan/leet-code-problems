@@ -12,7 +12,7 @@ public class Solution {
             result.add(k % 10); // add digit to result (reversed)
             k /= 10;            // carry
         }
-
+  
         // Reverse the result to get the actual number
         Collections.reverse(result);
         return result;
