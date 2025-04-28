@@ -1,0 +1,20 @@
+public class Solution {
+    public List<Integer> addToArrayForm(int[] num, int k) {
+        List<Integer> result = new ArrayList<>();
+        int i = num.length - 1;
+
+        while (i >= 0 || k > 0) {
+            if (i >= 0) {
+                k += num[i];
+                i--;
+            }
+
+            result.add(k % 10); // add digit to result (reversed)
+            k /= 10;            // carry
+        }
+
+        // Reverse the result to get the actual number
+        Collections.reverse(result);
+        return result;
+    }
+}
