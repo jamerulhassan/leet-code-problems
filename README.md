@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jamerulhassan/leet-code-problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/jamerulhassan/leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jamerulhassan/leet-code-problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/jamerulhassan/leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jamerulhassan/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jamerulhassan/leet-code-problems/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jamerulhassan/leet-code-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jamerulhassan/leet-code-problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/jamerulhassan/leet-code-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/jamerulhassan/leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/jamerulhassan/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamerulhassan/leet-code-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jamerulhassan/leet-code-problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jamerulhassan/leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/jamerulhassan/leet-code-problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/jamerulhassan/leet-code-problems/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jamerulhassan/leet-code-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
