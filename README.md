@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/jamerulhassan/leet-code-problems/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/jamerulhassan/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/jamerulhassan/leet-code-problems/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/jamerulhassan/leet-code-problems/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/jamerulhassan/leet-code-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jamerulhassan/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Trie
