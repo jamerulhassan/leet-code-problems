@@ -1,32 +1,29 @@
 class Solution {
     public double findMedianSortedArrays(int[] arr1, int[] arr2) {
-        int[] mergedArray = merge(arr1,arr2);
-        int mid = mergedArray.length / 2;
-        if(mergedArray.length % 2 == 0){
-            double res = ((mergedArray[mid - 1]  + mergedArray[mid]) / 2.0);
-            return res;
+        List<Integer> combinedList = new ArrayList<>();
+        double median = 0.0;
+        // Add elements from arr1
+        for (int num : arr1) {
+            combinedList.add(num);
+        }
+
+        // Add elements from arr2
+        for (int num : arr2) {
+            combinedList.add(num);
+        }
+        Collections.sort(combinedList);
+        
+        int n = combinedList.size();
+       System.out.println(combinedList);
+        if(n % 2 == 0){
+           
+            median = (combinedList.get(n/2) + combinedList.get( (n/2)-1 )) / 2.0;
+            return median;
         }
         else{
-            return mergedArray[mid];
-        }
-    }
-    static int[] merge(int[] arr1,int[] arr2){
-        int[] res = new int[arr1.length + arr2.length];
-        int i = 0, j = 0, k = 0 ;
-        while(i < arr1.length && j < arr2.length){
-            if(arr1[i] < arr2[j]){
-                res[k++] = arr1[i++];
-            }
-            else{
-                res[k++] = arr2[j++];
-            }
-        }
-        while(i < arr1.length){
-            res[k++] = arr1[i++];
-        }
-        while(j < arr2.length){
-            res[k++] = arr2[j++];
-        }
-        return res;
+            median = combinedList.get( n/2 );
+            return median;
+        } 
+     
     }
 }
