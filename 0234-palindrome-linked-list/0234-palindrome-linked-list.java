@@ -30,7 +30,7 @@ class Solution {
             head = head.next.next;
         }
         ListNode mid = midPrev.next;
-        midPrev.next = null;
+        
         return mid;
     }
     public static ListNode reverseList(ListNode head) {
