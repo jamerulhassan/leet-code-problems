@@ -23,16 +23,14 @@ class Solution {
         return true;
         
     }
-    public ListNode getMid2(ListNode head){
-        ListNode midPrev = null;
-        while( head != null && head.next != null ){
-            midPrev = (midPrev == null) ? head : midPrev.next ;
-            head = head.next.next;
-        }
-        ListNode mid = midPrev.next;
-        
-        return mid;
+    public ListNode getMid(ListNode head) {
+    ListNode slow = head, fast = head;
+    while (fast != null && fast.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
+    return slow; // This is the middle node
+}
     public static ListNode reverseList(ListNode head) {
         if(head == null){
             return head;
