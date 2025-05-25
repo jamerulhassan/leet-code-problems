@@ -11,11 +11,11 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         if(head.next == null) return true;
-        ListNode mid = getMid2(head);
+        ListNode mid = getMid(head);
         ListNode secondhead = reverseList(mid);
         ListNode temp1 = head;
         ListNode temp2 = secondhead;
-        while (temp1 != null && temp2 != null){
+        while (temp1 != mid && temp2 != null){
            if(temp1.val != temp2.val) return  false;
            temp1 = temp1.next;
            temp2 = temp2.next;
